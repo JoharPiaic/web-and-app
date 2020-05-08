@@ -1,0 +1,233 @@
+.full-Bar{
+  width: fit-content;
+  margin-bottom: -1px;
+  word-spacing:15px;
+  margin-left: 28px;
+}
+.sobutton{
+  margin-left:1000px;
+  margin-top: -28px;
+ 
+}
+.center{
+  background-color:rgb(49, 109, 195);
+   text-align: center;
+   color: white;
+   margin-top: -40px;
+   padding:1px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+.bar2{
+    text-align: center;
+    padding: 10px;
+    background-color: lightgray;
+    text-align: right;
+}
+.bar2 button{
+    color: black;
+    padding: 5px;
+    margin:  5px;    
+}
+.bar2 button:hover{
+    color: white;
+    padding: 10px;
+    border-radius: 20PX;
+    background-color:rgb(49, 109, 195);
+}
+.logo{
+    text-align: left;
+
+}
+.corona{
+    align-items: center;
+
+}
+
+.bar3{
+    background-color:rgb(39, 85, 233);
+    color: white;
+    padding: 10px;
+    margin: 10px auto 10px auto;
+    text-align: center;
+}
+
+.para{
+    background-color: rgb(247, 248, 250);
+    color: grey;
+    padding: 10px 160px 10px 160px ;
+    line-height: 1.9;
+    font-size: 14px;
+    text-align: justify;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 350px 250;
+    font-weight: bold;
+}
+h1,h4{
+    color: white;
+}
+.blue-square {
+  background-color:white;
+  color: rgb(49, 109, 195);
+  margin-left: 180px;
+  width: 300px;
+  height: 150px;
+  background-size: 100% 100%;
+  box-shadow: 1px 2px 10px 4px lightgrey;
+}
+.yellow-square {
+  background-color:white;
+  color: rgb(49, 109, 195);
+  width: 300px;
+  height: 150px;
+  margin-left: 516px;
+  margin-top:-150px; 
+  background-size: 100% 100%;
+  box-shadow: 1px 2px 10px 4px lightgrey;
+}
+.green-square {
+  text-align: center;
+  background-color: white;
+  color: rgb(49, 109, 195);
+  width: 300px;
+  height: 150px;
+  margin-left: 850px;
+  margin-top:-150px;
+    background-size: 100% 100%;
+  box-shadow: 1px 2px 10px 4px lightgrey;
+  
+} 
+
+ .Hep-square {
+  text-align: center;
+    border: 1px solid grey;
+    background-color:whitesmoke;
+    color: rgb(49, 109, 195);
+    margin-left:50px;
+    margin-bottom:-10px;
+
+    width: 350px;
+    height: 70px;
+  }
+  .IT-square{
+    text-align: center;
+    position: static;
+    border: 1px solid grey;
+    background-color:whitesmoke;
+    color: rgb(49, 109, 195);
+    right: -90px;
+    top: -20px;
+    bottom: 30px;
+    width: 350px;
+    height: 70px;
+}
+  .HOUSING-square {
+    text-align: center;
+    border: 1px solid grey;
+    background-color:whitesmoke;
+    color: rgb(49, 109, 195);
+    width: 350px;
+    height: 70px;
+    margin-left: 420px;
+    margin-top: -114px;
+    bottom: 340px;
+  }
+  .arrowup img{
+    background-color:white;
+    position: fixed;
+    width: 70px;
+    height: 70px;
+    bottom: 30px;
+    right: 10px;
+}
+  .tharparkar-square{
+    position: static;
+    border: 1px solid grey;
+    background-color:whitesmoke;
+    color: rgb(49, 109, 195);
+    width: 350px;
+    height: 70px;
+    margin-left: 420px;
+    margin-top:-100px;
+    margin-bottom: 430px;
+}
+  .left{
+    width: 220px;
+    height: 120px;
+  position: static;
+    margin-left: -270px;
+    margin-top: -14px;
+    bottom: 340px;
+    float: left;
+    clear: both;
+  
+  }
+  .right{
+    width: 220px;
+    height: 120px;
+   position: static;
+    margin-left: -5px;
+    margin-top: -120px;
+    float: left;
+    clear: both;
+  }
+  .LL{
+    width: 220px;
+    height: 120px;
+  position: static;
+    margin-left: 260px;
+    margin-top: -120px;
+    bottom: 340px;
+    float: left;
+    clear: both;
+  
+  }
+  .RR{
+    width: 220px;
+    height: 120px;
+   position: static;
+    margin-left: 520px;
+    margin-top: -120px;
+    float: left;
+    clear: both;
+  }
+  marquee{
+    position: relative;
+    margin-block-start: -210px;
+    margin-left: 410px;
+    margin-right: -350px;
+    margin-top: -22px;
+
+  }
+.footer{
+  width: fit-content;
+  text-align: left;
+  padding:10px;
+  width: 1500px;
+  background-color: rgb(37, 39, 46)
+
+}
+.p2{
+  color: lightgray;
+margin-left: 140px;
+margin-top: 60px;
+}  
+.last{
+
+  background-color:rgb(39, 85, 233);
+    color: white;
+    padding: 10px;
+  text-align: left;
+  width: 1500px;
+  height: -1000x;
+ 
+}
+.use{
+  color: red;
+  margin-left: 500px;
+  font-weight: bold;
+  margin-top: -50X;
+
+
+}
